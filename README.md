@@ -1,5 +1,9 @@
 HELLO THERE HERE IS MY PRINTF LIBRARY
 
+
+Group Project: Weight = 5
+
+
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life                                                                    
 Write a function that produces output according to a format.                        
@@ -30,8 +34,9 @@ Handle the following flag characters for non-custom conversion specifiers:
 8. Sarcasm is lost in print                                                         
 Handle the following length modifiers for non-custom conversion specifiers:         
                                                                                     
-l                                                                                   
-h                                                                                   
+
+l
+h                                                                                                                                                                    
 Conversion specifiers to handle: d, i, u, o, x, X                                   
                                                                                     
 9. Print some money and give it to us for the rain forests                          
